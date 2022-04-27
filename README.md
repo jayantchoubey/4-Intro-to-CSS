@@ -5,3 +5,5 @@ Add styling to web page using CSS.
   3) blogpage8.html --> using the features learnt yet made a blogpage.
   4) 3-externalcss.html --> styling using external css (linked to 3-externalcss.css).
   5) 3-externalcss.css --> CSS file for external css (linked to 3-externalcss.html).
+  6) blogpage9.html --> blogpage styling using external css.
+  7) blogpage9.css --> css file for blogpage9.html.
