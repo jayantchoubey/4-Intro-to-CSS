@@ -1,0 +1,11 @@
+.uppercase{
+  text-transform:uppercase;
+}
+
+.cursive{
+  font-family:cursive;
+}
+
+.color{
+    color: green;
+}
