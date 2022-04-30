@@ -1,0 +1,33 @@
+/*-----header-----*/
+#main-header {
+    height: 400px;
+}
+
+#about-site{
+  color:grey;
+}
+
+#header-image-container{
+
+}
+
+/*-----main-----*/
+#blog-header{
+  font-size: 20px;
+  color: #2a8b8b;
+}
+
+#blog-content{
+  width: 1000px;
+}
+#blog-image-container{
+
+}
+
+.h-style{
+  color: darkslategrey;
+}
+
+p {
+    color: dimgrey;
+}
