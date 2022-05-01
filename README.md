@@ -17,3 +17,5 @@ Add styling to web page using CSS.
   15) blogpage11.css --> css file for blogpage11.html (linked to blogpage11.html).
   16) 6-specificity.html --> html file showing what is the priorities of all styling methods when used together (linked to 6-specificity.css).
   17) 6-specificity.css --> css file for 6-specificity.html (linked to 6-specificity.html).
+  18) 7-grouping.html --> grouping of multiple tags in a single style (linked to 7-grouping.css).
+  19) 7-grouping.css --> css file for 7-grouping.html (linked to 7-grouping.html).
