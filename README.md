@@ -19,3 +19,5 @@ Add styling to web page using CSS.
   17) 6-specificity.css --> css file for 6-specificity.html (linked to 6-specificity.html).
   18) 7-grouping.html --> grouping of multiple tags in a single style (linked to 7-grouping.css).
   19) 7-grouping.css --> css file for 7-grouping.html (linked to 7-grouping.html).
+  20) 8-nesting.html --> nesting of tags for a style in html (linked to 8-nesting.html).
+  21) 8-nesting.css --> css file for 8-nesting.html (linked to 8-nesting.css).
