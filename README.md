@@ -23,3 +23,5 @@ Add styling to web page using CSS.
   21) 8-nesting.css --> css file for 8-nesting.html (linked to 8-nesting.css).
   22) blogpage12.html --> html file with styling using classes and ids (linked with blogpage12.css).
   23) blogpage12.css --> css file for blogpage12.html (linked with blogpage12.html).
+  24) blogpage13.html --> blogpage with added hover element (linked to blogpage13.css).
+  25) blogpage13.css --> css file for blogpage13.html (linked to blogpage13.css).
