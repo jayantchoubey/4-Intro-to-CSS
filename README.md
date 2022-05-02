@@ -21,3 +21,5 @@ Add styling to web page using CSS.
   19) 7-grouping.css --> css file for 7-grouping.html (linked to 7-grouping.html).
   20) 8-nesting.html --> nesting of tags for a style in html (linked to 8-nesting.html).
   21) 8-nesting.css --> css file for 8-nesting.html (linked to 8-nesting.css).
+  22) blogpage12.html --> html file with styling using classes and ids (linked with blogpage12.css).
+  23) blogpage12.css --> css file for blogpage12.html (linked with blogpage12.html).
